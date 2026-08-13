@@ -1,3 +1,6 @@
+// Write a program to input marks of 10 students randomly in an array. Sort the array using merge sort and show the highest & lowest marks.
+// Sample Input: [20, 73, 39, 92, 26, 47, 92, 58, 91, 48]
+
 #include <stdio.h>
 
 void merge(int arr[], int low, int mid, int high)
