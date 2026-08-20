@@ -20,7 +20,7 @@ void binarySearch(int a[], int size, int item)
         if (a[mid] == item)
         {
             flag = 1;
-            printf("Product ID found at index %d\n", mid);
+            printf("Product ID found at Index %d\n", mid);
             break;
         }
         else if (item < a[mid])
