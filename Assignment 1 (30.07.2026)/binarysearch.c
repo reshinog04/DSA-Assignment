@@ -43,7 +43,7 @@ int main()
     int size = 10;
     int item;
 
-    printf("Enter Product ID to Search: ");
+    printf("Enter product ID to Search: ");
     scanf("%d", &item);
 
     binarySearch(a, size, item);
